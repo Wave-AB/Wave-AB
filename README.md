@@ -4,7 +4,7 @@
 - 💞️  -- I’m looking to collaborate on knowledge sharing application projects
 - 📫  -- How to reach me adelin.budarara@gmail.com
 
- My current project is an open based knowledfe engine tool using state-of-the-art deep learning NLP models in order to democratize knowledge.
+ My current project is an open-based knowledge engine using state-of-the-art deep learning NLP models in order to democratize the access knowledge in a more efficient way.
 
 <!---
 Wave-AB/Wave-AB is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
