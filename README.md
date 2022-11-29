@@ -1,4 +1,4 @@
-- 👋  -- Hi, I’m Adelin Budarar @Wave-AB currently working in data as a manager for product driven analytics teams.
+- 👋  -- Hi, I’m Adelin Budarara @Wave-AB currently working in data as a manager for product driven analytics teams.
 - 👀  -- I’m interested in Data | Machine learning | Nlp | A.I 
 - 🌱  -- I’m currently learning Swift A.I and NLP deep learning
 - 💞️  -- I’m looking to collaborate on knowledge sharing application projects
